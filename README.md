@@ -1,6 +1,8 @@
 
 ## Sistema de Cálculo de Impostos
 
+Projeto feito para estudo do curso Java Completo - Udemy
+
 ### Descrição
 
 Este projeto é um programa Java que calcula os impostos de contribuintes, que podem ser classificados como **pessoas físicas** (indivíduos) ou **pessoas jurídicas** (empresas). O programa coleta informações como nome, renda anual e, dependendo do tipo de contribuinte, despesas médicas ou número de empregados, para calcular os impostos devidos com base nas regras específicas para cada categoria.
